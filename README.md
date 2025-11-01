@@ -13,11 +13,13 @@ We track:
 - Recipients of the Order of Australia and Israeli honours
 - Board members of Keren Hayesod, ZFA, AIJAC, AIF, Hatzofim, Beta, and others
 - Cross-links to military, financial, and educational institutions
+- Political donations, family dynasties, and succession patterns
+- Geopolitical dealings, resource extraction, and defence ties
 
 ## 📁 What's Inside
 
 - `orgs_and_individuals.csv`: The main database of entities and affiliations
-- `submission_form.md`: Template for submitting new profiles
+- `.github/ISSUE_TEMPLATE/new_entity.md`: Template for submitting new profiles
 - `CONTRIBUTING.md`: How to contribute safely and respectfully
 
 ## 🧠 Why This Matters
@@ -30,4 +32,3 @@ You can:
 - Submit profiles via GitHub Issues
 - Add verified entries to `orgs_and_individuals.csv`
 - Help visualise networks and build public education tools
-
