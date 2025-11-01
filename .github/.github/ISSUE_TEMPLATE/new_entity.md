@@ -13,6 +13,8 @@ assignees:
 - Individual  
 - Victim
 
+→ Fill out only the relevant section below.
+
 ---
 
 <details>
@@ -101,7 +103,8 @@ assignees:
 **Location:**  
 **Organisation(s) Involved:**  
 **Individuals Involved:**  
-**Type of Harm:**    
+**Type of Harm:**  
+**Public Response:**  
 **Source Links:**  
 
 </details>
